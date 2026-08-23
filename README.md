@@ -1,4 +1,3 @@
-Here is a **GitHub-ready README.md** for the current implementation. I’ve kept it accurate to what we actually built today, without claiming that the full QBN-AQVP framework or large-scale validation is already complete.
 
 ````markdown
 # Quantum Bellman Networks with Adaptive Quantum Value Propagation (QBN-AQVP)
@@ -575,17 +574,7 @@ Amrita Vishwa Vidyapeetham
 
 ````
 
-### One thing I recommend before you commit this README
 
-Use the wording **"proof-of-concept"**, **"prototype"**, and **"observed on the toy graph"** throughout. Don't put claims such as *quantum advantage*, *higher accuracy*, or *improved performance* in the README yet. We haven't established those experimentally.
-
-Save this as:
-
-```text
-README.md
-````
-
-then run:
 
 ```powershell
 git add README.md
