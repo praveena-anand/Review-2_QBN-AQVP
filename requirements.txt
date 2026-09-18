@@ -1,3 +1,13 @@
 qiskit>=1.0,<3.0
+
 numpy>=1.26
+
 matplotlib>=3.8
+
+pandas>=2.0
+
+h5py>=3.8
+
+scipy>=1.10
+
+tables>=3.8
